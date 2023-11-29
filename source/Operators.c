@@ -25,4 +25,5 @@ int main() {
    
    
    printf("%i", value1+value2); 
+   return 0; 
 }

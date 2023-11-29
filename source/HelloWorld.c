@@ -1,4 +1,6 @@
 #include <stdio.h>; 
+// similar to C#'s using and Import keyword from pythyon, you can choose to import various external libraries in C as well. 
+
 /* Although C89 or ANSI C does not support the //, for sake of comfort (which I'm used to using c#, )
 I'll be using // a LOT. */
 
@@ -11,4 +13,5 @@ set of functions (defined or not I guess) ready to use is called libraries. here
 int main() { 
     printf("Hello World!"); // Console.Write(str); 
     getchar(); //works similar to Console.GetKey(); 
+    return 0; 
 }
