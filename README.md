@@ -4,6 +4,7 @@
 Where the main task of the learning has been understanding fundamentals behind C#
 ----
 various topics are subjects to update in due time.
+----
 One of the core benefits of learning programming through C is in perceiving programming without the concept of a 'class'. 
 Where program through library or local codes are compiled into object codes, learning C have allowed myself to visualize code in a much simpler form. Ways in which stacks are formed on top of another functions, ways in which other scripts subdivided by programmer interacts and 'combines' together through build process, have allowed me to understand background in which DLL or external libraries can interact with programs compiled using different languages. Lastly, subject surrounding C encourages me to dig deeper in two vastly different yet connected subjects. 
 
